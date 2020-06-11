@@ -13,7 +13,7 @@
       {
         "displayName":"Import Demo Example" ,
         "description":"Import Demo Example" ,
-        "path":"Samples/CalibratoinDemo"
+        "path":"Samples/CalibrationDemo"
     }],      
   "author" : {
 "name":"Eloi Strée",
