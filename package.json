@@ -1,15 +1,20 @@
 
 {                                                                                
-  "name": "be.eloistree.calibrationtools",                              
-  "displayName": "Calibariton Tools",                        
+  "name": "be.eloistree.gizmotools",                              
+  "displayName": "Gizmo Tools",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
-  "description": "Some 2D, 3D and scripts tool to calibrate your game size.",                         
-  "keywords": ["Script","Tool"],                       
+  "description": "Some 2D, 3D and scripts tool to calibrate your game with Gizmo.",                         
+  "keywords": ["Script","Tool","3D", "Gizmo"],                       
   "dependencies":{},     
   "relatedPackages":{},     
-  "samples" : [],     
+  "samples" : [
+      {
+        "displayName":"Import Demo Example" ,
+        "description":"Import Demo Example" ,
+        "path":"Samples/CalibratoinDemo"
+    }],      
   "author" : {
 "name":"Eloi Strée",
 "mail":"streeeloi@gmail.com",
