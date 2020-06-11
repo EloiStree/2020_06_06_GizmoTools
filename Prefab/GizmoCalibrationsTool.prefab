@@ -327,11 +327,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gizmo 1dm
       objectReference: {fileID: 0}
-    - target: {fileID: 6443638951420328869, guid: 267270ffd1737184e8265e649c347ab3,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7149102769613225711, guid: 267270ffd1737184e8265e649c347ab3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -406,11 +401,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Gizmo 1m
-      objectReference: {fileID: 0}
-    - target: {fileID: 1158993569720215288, guid: d779d3923c0427640a83aabdea449bab,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3048729042219656114, guid: d779d3923c0427640a83aabdea449bab,
         type: 3}
@@ -541,11 +531,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Gizmo 1mm
-      objectReference: {fileID: 0}
-    - target: {fileID: 4323669494989703846, guid: b791b0a99804c224c8a77bb0bb1cf2ea,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b791b0a99804c224c8a77bb0bb1cf2ea, type: 3}
