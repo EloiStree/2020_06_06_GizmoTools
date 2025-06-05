@@ -1,18 +1,17 @@
 {                                                                                
-  "name": "be.eloistree.gizmotools",                              
+  "name": "be.elab.gizmotools",                              
   "displayName": "Gizmo Tools",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "Some 2D, 3D and scripts tool to calibrate your game with Gizmo.",                         
-  "keywords": ["Script","Tool","3D", "Gizmo"],                       
-  "dependencies":{ "be.eloistree.license":"0.0.1"},     
+  "keywords": ["Script","Tool","3D", "Gizmo"],       
   "relatedPackages":{},     
   "samples" : [
       {
         "displayName":"Import Demo Example" ,
         "description":"Import Demo Example" ,
-        "path":"Samples/CalibrationDemo"
+        "path":"Scene/Demo"
     }],      
   "author" : {
 "name":"Eloi Strée",
